@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 import React from "react";
 
 const ExerciseDetail = () => {
@@ -6,7 +6,6 @@ const ExerciseDetail = () => {
 };
 
 export default ExerciseDetail;
-=======
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Box } from '@mui/material';
