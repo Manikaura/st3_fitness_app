@@ -1,11 +1,11 @@
-HEAD
-import React from "react";
+// HEAD
+// import React from "react";
 
-const ExerciseDetail = () => {
-  return <div>ExerciseDetail</div>;
-};
+// const ExerciseDetail = () => {
+//   return <div>ExerciseDetail</div>;
+// };
 
-export default ExerciseDetail;
+// export default ExerciseDetail;
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Box } from '@mui/material';
@@ -46,4 +46,4 @@ const ExerciseDetail = () => {
 }
 
 export default ExerciseDetail
->>>>>>> fc28730d212f9ba045d32efda753b9271a57006e
+// >>>>>>> fc28730d212f9ba045d32efda753b9271a57006e
